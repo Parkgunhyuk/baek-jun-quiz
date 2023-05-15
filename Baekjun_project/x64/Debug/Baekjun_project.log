@@ -1,0 +1,4 @@
+﻿  0514.c
+C:\Users\ekfla\OneDrive\Desktop\소스코드저장소\Baekjun_project\Baekjun_project\0514.c(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ekfla\OneDrive\Desktop\소스코드저장소\Baekjun_project\Baekjun_project\0514.c(19,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Baekjun_project.vcxproj -> C:\Users\ekfla\OneDrive\Desktop\소스코드저장소\Baekjun_project\x64\Debug\Baekjun_project.exe
